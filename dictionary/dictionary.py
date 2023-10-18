@@ -12,4 +12,13 @@ data_dict = {
     'dg' : 'dudung'
 }
 
-print(data_dict['cp'])
+# print(f"ini adalah bentuk dictionary : \n {data_dict}")
+
+# # cara memanggil item pada dictionari adalah :
+# print(data_dict['cp'])
+
+# # mangakses item dict dengan get
+# print(data_dict.get('cp'))
+
+cp = data_dict.get('cp')
+print(cp)
