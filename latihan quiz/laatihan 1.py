@@ -13,3 +13,5 @@
 # x = x - 1
 # print(data_buah[x])
 
+
+p = [1,3,4]
